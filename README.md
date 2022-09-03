@@ -2,6 +2,7 @@
 
 <h1>0x00 Shell basics</h1>
 <h2>Accomplishments</h2>
+
 1. Print the absolute path name of the current working directory
 2. Display the contents list of your current directory
 3. Change the working directory to the user’s home directory
