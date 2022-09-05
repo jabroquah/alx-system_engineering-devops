@@ -1,7 +1,7 @@
 # ALX System Engineering and Devops
 
-<h1>0x00 Shell basics</h1>
-<h2>Accomplishments</h2>
+## 0x00 Shell basics
+## Accomplishments
 
 1. Print the absolute path name of the current working directory
 2. Display the contents list of your current directory
