@@ -1,2 +1,2 @@
 #!/bin/bash
-numconv -f 2 -t 10 $BINARY
+echo $((2#$BINARY))
