@@ -12,7 +12,7 @@ The projects in this repository were created specifically for the system enginee
 
 | File name | Description |
 | --------- | ----------- |
-| [`0-hello_world`](https://github.com/jabroquah/alx-system_engineering-devops/blob/main/0x02-shell_redirections/0-hello_world) | A script that prints `Hello, World`, followed by a new line to the standard output |
+| [`0-hello_world`](https://github.com/jabroquah/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/0-alias) | A script that prints `Hello, World`, followed by a new line to the standard output |
 | [`1-confused_smiley`](https://github.com/jabroquah/alx-system_engineering-devops/blob/main/0x02-shell_redirections/1-confused_smiley) | A script that displays a confused smiley `(Ôo)` |
 | [`2-hellofile`](https://github.com/jabroquah/alx-system_engineering-devops/blob/main/0x02-shell_redirections/2-hellofile) | Displays the content of the `/etc/passwd` |
 | [`3-twofiles`](https://github.com/jabroquah/alx-system_engineering-devops/blob/main/0x02-shell_redirections/3-twofiles) | Displays the content of the `/etc/passwd` and `/etc/hosts` |
